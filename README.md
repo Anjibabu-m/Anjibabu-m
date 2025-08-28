@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Manepalli Anjibabu 👋
 
-<!--
-**Anjibabu-m/Anjibabu-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+- 🎓 MCA Graduate
+- 📊 Certified Data Analyst from JSpiders, Bangalore
+- 💡 Passionate about turning data into actionable insights
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Power BI, Excel
+- **Databases:** SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced analytics techniques
+- Building interactive dashboards
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/manepalli-anjibabu/)
+- 8688273551
